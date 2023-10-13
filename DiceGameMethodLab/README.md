@@ -1,2 +1,3 @@
 # Dev_102_DiceGameMethod
-Dice simulator 
+Dice simulator written on c#
+Console game
